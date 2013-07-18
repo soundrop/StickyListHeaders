@@ -59,7 +59,6 @@ target/
 
 ###IntelliJ###
  
-*.iml
 *.ipr
 *.iws
 .idea/
